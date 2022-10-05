@@ -28,7 +28,6 @@ target/
 build/
 
 ### VS Code ###
-.vscode/
 uploads
 .DS_Store
 logs
@@ -37,3 +36,6 @@ application-dev.properties
 application-test.properties
 application-prod.properties
 todo.txt
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
